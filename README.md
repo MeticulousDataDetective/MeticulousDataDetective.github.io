@@ -1,2 +1,2 @@
 # MeticulousDataDetective.github.io
-Web Development Portfolio
+This repository is related to web development.
